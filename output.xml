@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<proteins>
+    <protein id="A0A009GKR3" name="A0A009GKR3_9GAMM" length="289" crc64="6EE55E7A2BDC8AD1">
+        <match id="G3DSA:2.60.40.10" name="" dbname="T" model="5irbA02">
+            <lcn start="56" end="155" fragments="56-155-S" score="4.8e-06" />
+            <lcn start="161" end="260" fragments="161-260-S" score="2.9e-06" />
+        </match>
+        <match id="PS00018" name="EF_HAND_1" dbname="T" model="PS00018">
+            <lcn start="273" end="285" fragments="273-285-S" score="0.0" />
+        </match>
+    </protein>
+</proteins>
