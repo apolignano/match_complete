@@ -5,5 +5,5 @@ The original.xml file, is a excerpt from the match_complete.xml file from releas
 Execute all the cells in the notebook and you'll end up with three more additional files:
 - processed.xml: an even more edited version of original.xml, obtained by removing 'ipr' objects and the representative attribute from locations;
 - output.xml: the generated xml file;
-- differences.txt: containing a list of the differences between "processed.xml" and "output.xml". Right now, excluding the representative attribute and ipr entries, the only differences are the model_ac(s).
+- differences.json: containing the differences between "processed.xml" and "output.xml". Right now, excluding the representative attribute and ipr entries, the only differences are the model_ac(s).
 
